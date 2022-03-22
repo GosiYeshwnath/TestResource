@@ -6,6 +6,8 @@ public class TestSecond {
 		
 		System.out.println("done");
 
+		int a;
 	}
 
 }
+ 
